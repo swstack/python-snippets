@@ -1,0 +1,8 @@
+S'hello'
+p0
+.(dp1
+I1
+S'test'
+p2
+s.I5
+.
